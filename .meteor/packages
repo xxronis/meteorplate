@@ -25,4 +25,5 @@ aldeed:autoform
 accounts-google
 accounts-facebook
 accounts-twitter
-mrt:accounts-ui-bootstrap-3
+ian:accounts-ui-bootstrap-3
+service-configuration
